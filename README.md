@@ -39,6 +39,11 @@ archive for your platform, unzip, and run.
 
 內建英文與繁體中文介面。
 
+### 問題回報
+
+發現問題或有需求？請至 [**Issues**](../../issues) 頁面開票。回報時請附上作業
+系統、應用程式版本（見「說明 → 關於 MapStacker」）以及重現步驟。
+
 ---
 
 ## English
@@ -72,3 +77,9 @@ Get the latest build from the [**Releases**](../../releases/latest) page:
 ### Languages
 
 English and Traditional Chinese UI are bundled.
+
+### Support
+
+Found a bug or have a request? Open an issue on the
+[**Issues**](../../issues) page. Please include your OS, the app version
+(shown under *Help → About MapStacker*), and the steps to reproduce.
