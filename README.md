@@ -3,14 +3,14 @@
 **行星／月面影像疊合工具** — 免安裝 Python，下載對應平台的壓縮檔，解壓後即可執行。
 支援 Windows、macOS、Linux。
 
-**Lunar &amp; planetary image stacking tool** for lucky imaging — a free,
-lightweight, cross-platform alternative to AutoStakkert!3, RegiStax and
-PlanetarySystemStacker. No Python required: download the archive for your
-platform, unzip, and run. Windows, macOS and Linux.
+**Lunar &amp; planetary image stacking tool** for lucky imaging. Runs natively on
+Windows, macOS and Linux, with an English / Traditional Chinese UI. No Python
+required: download the archive for your platform, unzip, and run. Its workflow
+will feel familiar if you've used AutoStakkert or RegiStax.
 
 > Keywords: astrophotography · planetary imaging · lunar imaging · lucky
-> imaging · SER stacking · AutoStakkert / RegiStax / PlanetarySystemStacker
-> alternative · Moon · Mars · Jupiter · Saturn.
+> imaging · SER stacking · Moon · Mars · Jupiter · Saturn · familiar to
+> AutoStakkert / RegiStax users.
 
 ---
 
@@ -82,9 +82,10 @@ MapStacker is a free desktop tool for **lucky-imaging planetary and lunar
 astrophotography**. Feed it a SER capture of the Moon, Mars, Jupiter or Saturn
 and it ranks the frames by sharpness, aligns the best ones with a
 **multi-alignment-point mesh warp** (correcting local seeing distortion), and
-stacks them into a sharp result you can then wavelet-sharpen elsewhere. It is a
-lightweight, cross-platform alternative to **AutoStakkert!3**, **RegiStax** and
-**PlanetarySystemStacker (PSS)**.
+stacks them into a sharp result you can then wavelet-sharpen elsewhere. The
+workflow will feel familiar if you've used **AutoStakkert** or **RegiStax**;
+what MapStacker adds is a single tool that runs **natively on Windows, macOS
+and Linux** with a **bilingual (English / Traditional Chinese) UI**.
 
 ### Download
 
